@@ -9,6 +9,7 @@ While I'm practicing Shouting Into the Void, I thought it might be useful to dev
 (I don't have a clear idea yet of how often this list changes appreciably, therefore frequency of updates is TBD.)
 
 
+
 ONWARD
 
 ![What I'm Reading 3/24/19]({{site.baseurl}}/         entson.github.io/images/2019-03-24-Reading.PNG)
