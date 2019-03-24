@@ -11,7 +11,8 @@ While I'm practicing Shouting Into the Void, I thought it might be useful to dev
 
 ONWARD
 
-![2019-03-24 Reading.PNG]({{site.baseurl}}/_posts/2019-03-24 Reading.PNG)
+![2019-03-24-Reading.PNG]({{site.baseurl}}/_posts/2019-03-24-Reading.PNG)
+
 
 1.I've become enamored with The New Yorker. There's just something about a limit on free articles per month, with a tantalizing 2 paragraph tease behind a headline I've already fallen for. OK, many headlines I've already fallen for. New Yorker, you tease. Shut up and take my money.
 
@@ -23,7 +24,7 @@ Tell me, who can resist a survival story? Sitting around in my pajamas, drinking
 
 3.The Ringer. Time to admit my addiction to quippy pop culture writing. The 20th Anniversary of Office Space was [given its appropriate due](https://www.theringer.com/movies/2019/2/19/18228673/office-space-oral-history), this [sharp piece of analysis](https://www.theringer.com/movies/2019/2/28/18050196/american-history-x-basketball-scene-ed-norton) gave me a cringy flashback to both a period chalk full of adolescent fascinations I wouldn't mind forgetting, as well as a warm reminiscence of Edward Norton's [late](https://www.imdb.com/title/tt0128442/?ref_=nm_flmg_act_41) [90's](https://www.imdb.com/title/tt0137523/?ref_=nm_flmg_act_38) ["peak"](https://www.imdb.com/title/tt0171433/?ref_=nm_flmg_act_37). (SIDENOTE: Whatever happened to [Edward Furlong](https://www.imdb.com/name/nm0000411/?ref_=tt_cl_t2)? Oh, he's 41! Oh, alcoholism, heroin, domestic violence arrest... )
 
-![We were so young, once...]({{site.baseurl}}/https://m.media-amazon.com/images/M/MV5BMTA5OTQwODkwMzleQTJeQWpwZ15BbWU4MDUwOTM4MDMy._V1_SX1777_CR0,0,1777,736_AL_.jpg)
+![We were so young, once...](https://m.media-amazon.com/images/M/MV5BMTA5OTQwODkwMzleQTJeQWpwZ15BbWU4MDUwOTM4MDMy._V1_SX1777_CR0,0,1777,736_AL_.jpg)
 
 4.[Safiya Nygaard](https://www.youtube.com/channel/UCbAwSkqJ1W_Eg7wr3cp5BUA/videos). This chick's pretty funny. I was drawn in by her video about [wedding dresses from wish.com](https://youtu.be/mcZdTvOqmvI) (brilliant idea for a video), then spent some time looking through her other stuff. I'm not a huge video person but I found her charming. 
 
