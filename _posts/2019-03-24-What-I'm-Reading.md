@@ -11,7 +11,7 @@ While I'm practicing Shouting Into the Void, I thought it might be useful to dev
 
 ONWARD
 
-![2019-03-24-Reading.PNG]({{site.baseurl}}/_posts/2019-03-24-Reading.PNG)
+![2019-03-24-Reading.PNG](entson.github.io/_posts/2019-03-24-Reading.PNG)
 
 
 1.I've become enamored with The New Yorker. There's just something about a limit on free articles per month, with a tantalizing 2 paragraph tease behind a headline I've already fallen for. OK, many headlines I've already fallen for. New Yorker, you tease. Shut up and take my money.
