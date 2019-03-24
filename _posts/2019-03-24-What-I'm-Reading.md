@@ -9,7 +9,7 @@ While I'm practicing Shouting Into the Void, I thought it might be useful to dev
 (I don't have a clear idea yet of how often this list changes appreciably, therefore frequency of updates is TBD.)
 
 
-## ONWARD
+ONWARD
 
 ![2019-03-24 Reading.PNG]({{site.baseurl}}/_posts/2019-03-24 Reading.PNG)
 
