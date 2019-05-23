@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full time ER Veterinary Assistant, full time Veterinary Technician student, full time dog mom, definitely just flirting with blogging.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[e-mail](mailto:enmayhugh@gmail.com)
