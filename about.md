@@ -8,8 +8,6 @@ Full time ER Veterinary Assistant, full time Veterinary Technician student, full
 
 ### More Information
 
-This is information
-
 
 ### Contact me
 
