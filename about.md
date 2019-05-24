@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Full time ER Veterinary Assistant, full time Veterinary Technician student, full time dog mom, definitely just flirting with blogging.
