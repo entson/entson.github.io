@@ -7,7 +7,7 @@ permalink: /about/
 Full time ER Veterinary Assistant, full time Veterinary Technician student, full time dog mom, definitely just flirting with blogging.
 
 ### More Information
-
+x
 
 ### Contact me
 
